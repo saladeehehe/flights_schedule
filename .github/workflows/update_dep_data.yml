@@ -3,6 +3,7 @@ name: Update Flight Data
 on:
   schedule:
     - cron: "0 */12 * * *"
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
   update-data:
