@@ -228,7 +228,7 @@ for day in range(3):
 
 # Save the updated flight data to a JSON file
 with open("departures_data1.json", "w") as f:
-    json.dump({"flights": flights_data}, f)
+    json.dump({"flights": flights_data,  "number_of_flights": len(existing_data)}, f)
 
 # Save seen_flights to seen_data1.txt
 with open("seen_data1.txt", "w") as f:
