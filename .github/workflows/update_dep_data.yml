@@ -31,8 +31,13 @@ jobs:
       # Step 4: Run your Python script
       - name: Run Python script
         run: python webscraper_departures.py  
-        
-      # Step 5: Commit and push changes
+      # Step 5: Set up Git for GitHub Actions
+      - name: Set up Git for GitHub Actions
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Step 6: Commit and push changes
       - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
