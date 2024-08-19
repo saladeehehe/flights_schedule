@@ -29,9 +29,9 @@ try:
 except FileNotFoundError:
     existing_data = []
 
-# Load seen_data.txt
+# Load seen_data1.txt
 try:
-    with open("seen_data.txt1", "r") as f:
+    with open("seen_data1.txt", "r") as f:
         seen_flights = set(line.strip() for line in f.readlines())
 except FileNotFoundError:
     seen_flights = set()
@@ -227,10 +227,10 @@ for day in range(3):
     flights_data = scrape_flights_for_date(target_date)
 
 # Save the updated flight data to a JSON file
-with open("departures_data.1json", "w") as f:
+with open("departures_data1.json", "w") as f:
     json.dump({"flights": flights_data}, f)
 
-# Save seen_flights to seen_data.txt
+# Save seen_flights to seen_data1.txt
 with open("seen_data1.txt", "w") as f:
     for flight_id in seen_flights:
         f.write(f"{flight_id}\n")
