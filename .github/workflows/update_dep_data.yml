@@ -1,4 +1,7 @@
 name: Update JSON and TXT
+permissions:
+  contents: write
+
 
 # Trigger the workflow every 5 hours
 on:
@@ -45,3 +48,9 @@ jobs:
           git add .
           git commit -m "Update JSON and TXT files"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/saladeehehe/flights_schedule.git
+     # Step 7: Debug GitHub Actions
+      - name: Debug GitHub Actions
+        run: |
+          echo "Repository URL: https://github.com/${{ github.repository }}"
+          echo "GitHub Actions Token: ${{ secrets.GITHUB_TOKEN }}"
+          git remote -v
