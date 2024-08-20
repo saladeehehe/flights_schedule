@@ -21,6 +21,8 @@ chrome_options.add_argument("--disable-extensions")  # Disable extensions
 driver = webdriver.Chrome(options=chrome_options)
 wait = WebDriverWait(driver, 20)
 
+driver.get("https://www.changiairport.com/en/flights/departures.html")
+
 # Path to the JSON file
 json_file_path = "departure_flights.json"
 
