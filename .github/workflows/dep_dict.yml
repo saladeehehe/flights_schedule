@@ -6,7 +6,7 @@ permissions:
 # Trigger the workflow every 5 hours
 on:
   schedule:
-    - cron: '0 */5 * * *'  # Runs every 5 hours (at minute 0 of hours divisible by 5)
+    - cron: '0 */3 * * *'  # Runs every 3 hours (at minute 0 of hours divisible by 3)
   workflow_dispatch: 
 
 # Define the jobs that will run in the workflow
