@@ -21,6 +21,8 @@ chrome_options.add_argument("--disable-extensions")  # Disable extensions
 driver = webdriver.Chrome(options=chrome_options)
 wait = WebDriverWait(driver, 20)
 
+
+# Open the flight details webpage
 driver.get("https://www.changiairport.com/en/flights/departures.html")
 
 # Path to the JSON file
@@ -42,17 +44,18 @@ else:
     print("No existing data found. Starting with an empty flight dictionary.")
 
 
+
 def scroll_and_click(element):
     """Scrolls to an element and clicks it using JavaScript."""
     driver.execute_script("arguments[0].scrollIntoView(true);", element)
-    WebDriverWait(driver, 20).until(EC.element_to_be_clickable(element))
+    WebDriverWait(driver, 10).until(EC.element_to_be_clickable(element))
     driver.execute_script("arguments[0].click();", element)
 
 def choose_date(date):
     """Selects a date from the date picker and waits for the flights list to load."""
     try:
         # Click the calendar input to open the date picker
-        calendar_input = driver.find_element(By.CLASS_NAME, 'react-datepicker__input-container')
+        calendar_input = driver.find_element(By.CSS_SELECTOR, 'div.react-datepicker__input-container input[type="button"]')
         if calendar_input:
             print("Calendar button found")
         scroll_and_click(calendar_input)
@@ -68,7 +71,7 @@ def choose_date(date):
         target_day_class = f"react-datepicker__day--{day_str}"
         
         # Debug: Print all available day elements
-        day_elements = driver.find_elements(By.CLASS_NAME, 'react-datepicker__day')
+        #day_elements = driver.find_elements(By.CLASS_NAME, 'react-datepicker__day')
         #for elem in day_elements:
         #    print(f"Found day element: {elem.text} with class: {elem.get_attribute('class')}")
         
@@ -76,14 +79,14 @@ def choose_date(date):
         date_element = driver.find_element(By.CLASS_NAME, target_day_class)
         scroll_and_click(date_element)
         print("Date clicked")
-        driver.save_screenshot("screenshot1_date.png")  # Save a screenshot for debugging
+        driver.save_screenshot("screenshot1.png")  # Save a screenshot for debugging
         
         # Wait for the flights list to update
         WebDriverWait(driver, 20).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'div.data.flightlist'))  # Adjust the selector based on actual flights list container
         )
         print("Flights list should be updated now")
-        driver.save_screenshot("screenshot2_date_flight.png")  # Save a screenshot to confirm the flights list
+        driver.save_screenshot("screenshot2.png")  # Save a screenshot to confirm the flights list
 
     except Exception as e:
         print(f"Date picker not visible or error occurred: {e}")
