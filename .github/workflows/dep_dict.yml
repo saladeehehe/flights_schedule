@@ -3,10 +3,10 @@ permissions:
   contents: write
 
 
-# Trigger the workflow every 5 hours
+# Trigger the workflow every 2 hours
 on:
   schedule:
-    - cron: '0 */3 * * *'  # Runs every 3 hours (at minute 0 of hours divisible by 3)
+    - cron: '0 */2 * * *'  # Runs every 2 hours
   workflow_dispatch: 
 
 # Define the jobs that will run in the workflow
