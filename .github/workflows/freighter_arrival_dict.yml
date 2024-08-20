@@ -1,4 +1,4 @@
-name: Update arrival flights dictionary
+name: Update freighter arrival flights dictionary
 permissions:
   contents: write
 
