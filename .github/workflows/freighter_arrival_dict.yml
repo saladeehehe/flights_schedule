@@ -47,7 +47,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git add freighter_arrival_flights.json
-          git commit -m "Update arrival (freighter) JSON dictionary"
+          git commit -m "Update arrival (freighter) JSON dictionary" || echo "No changes to commit"
+          git pull origin main --rebase
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/saladeehehe/flights_schedule.git
      # Step 7: Debug GitHub Actions
       - name: Debug GitHub Actions
