@@ -1,4 +1,4 @@
-name: Update freighter departure dict
+name: Update freighter departure dictionary
 permissions:
   contents: write
 
