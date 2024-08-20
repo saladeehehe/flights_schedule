@@ -229,7 +229,6 @@ def convert_dict_to_list(flight_dict):
     return list(flight_dict.values())
 
 # Main execution
-departure_flights_dict = {}
 start_date = datetime.today()
 
 for day in range(2):
