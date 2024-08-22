@@ -1409,7 +1409,17 @@
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3U9394_2024-08-22 15:30:00",
+            "flight_number": "3U9394",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-22 14:45:00",
+            "actual_departure_time": "2024-08-22 15:30:00",
+            "airline_name": "Sichuan Airlines",
+            "destination": "Nanning (NNG)",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 141
+    "number_of_flights": 142
 }
