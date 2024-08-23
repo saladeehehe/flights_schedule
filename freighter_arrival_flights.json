@@ -2409,7 +2409,37 @@
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "BR6085_2024-08-24 04:27:00",
+            "flight_number": "BR6085",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 04:10:00",
+            "actual_arrival_time": "2024-08-24 04:27:00",
+            "airline_name": "EVA Air",
+            "origin_country": "Taipei",
+            "flight_status": "CONFIRMED 04:27"
+        },
+        {
+            "flight_id": "KZ263_2024-08-24 04:17:00",
+            "flight_number": "KZ263",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 04:35:00",
+            "actual_arrival_time": "2024-08-24 04:17:00",
+            "airline_name": "Nippon Cargo Airlines",
+            "origin_country": "Tokyo (Narita)",
+            "flight_status": "CONFIRMED 04:17"
+        },
+        {
+            "flight_id": "7L631_2024-08-24 11:30:00",
+            "flight_number": "7L631",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 11:00:00",
+            "actual_arrival_time": "2024-08-24 11:30:00",
+            "airline_name": "Silk Way West Airlines",
+            "origin_country": "Baku",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 241
+    "number_of_flights": 244
 }
