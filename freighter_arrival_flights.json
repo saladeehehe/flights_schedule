@@ -2008,7 +2008,7 @@
             "actual_arrival_time": "2024-08-24 10:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y940_2024-08-24 10:30:00",
@@ -2418,7 +2418,7 @@
             "actual_arrival_time": "2024-08-24 04:27:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED 04:27"
+            "flight_status": "LANDED 04:27"
         },
         {
             "flight_id": "KZ263_2024-08-24 04:17:00",
@@ -2428,7 +2428,7 @@
             "actual_arrival_time": "2024-08-24 04:17:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "CONFIRMED 04:17"
+            "flight_status": "LANDED 04:17"
         },
         {
             "flight_id": "7L631_2024-08-24 11:30:00",
@@ -2448,7 +2448,7 @@
             "actual_arrival_time": "2024-08-24 06:17:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED 06:17"
+            "flight_status": "LANDED 06:17"
         },
         {
             "flight_id": "5X167_2024-08-24 07:02:00",
@@ -2628,7 +2628,7 @@
             "actual_arrival_time": "2024-08-25 05:00:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:00"
         },
         {
             "flight_id": "SQ7365_2024-08-25 05:30:00",
@@ -2839,7 +2839,257 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
             "flight_status": "CONFIRMED 18:30"
+        },
+        {
+            "flight_id": "5X35_2024-08-24 00:43:00",
+            "flight_number": "5X35",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 00:20:00",
+            "actual_arrival_time": "2024-08-24 00:43:00",
+            "airline_name": "United Parcel Service",
+            "origin_country": "Sydney",
+            "flight_status": "LANDED 00:43"
+        },
+        {
+            "flight_id": "SQ7395_2024-08-24 01:42:00",
+            "flight_number": "SQ7395",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 01:20:00",
+            "actual_arrival_time": "2024-08-24 01:42:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "London (Heathrow)",
+            "flight_status": "LANDED 01:42"
+        },
+        {
+            "flight_id": "3S530_2024-08-24 01:19:00",
+            "flight_number": "3S530",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 01:25:00",
+            "actual_arrival_time": "2024-08-24 01:19:00",
+            "airline_name": "Aerologic",
+            "origin_country": "Leipzig/Halle",
+            "flight_status": "LANDED 01:19"
+        },
+        {
+            "flight_id": "O3105_2024-08-24 01:33:00",
+            "flight_number": "O3105",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 01:25:00",
+            "actual_arrival_time": "2024-08-24 01:33:00",
+            "airline_name": "SF Airlines",
+            "origin_country": "Shenzhen",
+            "flight_status": "LANDED 01:33"
+        },
+        {
+            "flight_id": "FX5040_2024-08-24 04:36:00",
+            "flight_number": "FX5040",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 03:35:00",
+            "actual_arrival_time": "2024-08-24 04:36:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Paris",
+            "flight_status": "LANDED 04:36"
+        },
+        {
+            "flight_id": "CI5873_2024-08-24 13:33:00",
+            "flight_number": "CI5873",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 04:00:00",
+            "actual_arrival_time": "2024-08-24 13:33:00",
+            "airline_name": "China Airlines",
+            "origin_country": "Taipei",
+            "flight_status": "LANDED 13:33"
+        },
+        {
+            "flight_id": "5X167_2024-08-24 06:59:00",
+            "flight_number": "5X167",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 07:05:00",
+            "actual_arrival_time": "2024-08-24 06:59:00",
+            "airline_name": "United Parcel Service",
+            "origin_country": "Shenzhen",
+            "flight_status": "LANDED 06:59"
+        },
+        {
+            "flight_id": "FX5419_2024-08-24 06:49:00",
+            "flight_number": "FX5419",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 07:15:00",
+            "actual_arrival_time": "2024-08-24 06:49:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Guangzhou",
+            "flight_status": "LANDED 06:49"
+        },
+        {
+            "flight_id": "LD317_2024-08-24 07:59:00",
+            "flight_number": "LD317",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 08:20:00",
+            "actual_arrival_time": "2024-08-24 07:59:00",
+            "airline_name": "Air Hong Kong",
+            "origin_country": "Hong Kong",
+            "flight_status": "LANDED 07:59"
+        },
+        {
+            "flight_id": "2Y840_2024-08-24 10:10:00",
+            "flight_number": "2Y840",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 10:00:00",
+            "actual_arrival_time": "2024-08-24 10:10:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Makassar",
+            "flight_status": "LANDED 10:10"
+        },
+        {
+            "flight_id": "2Y940_2024-08-24 10:49:00",
+            "flight_number": "2Y940",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 10:30:00",
+            "actual_arrival_time": "2024-08-24 10:49:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Medan",
+            "flight_status": "LANDED 10:49"
+        },
+        {
+            "flight_id": "7L631_2024-08-24 11:34:00",
+            "flight_number": "7L631",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 11:00:00",
+            "actual_arrival_time": "2024-08-24 11:34:00",
+            "airline_name": "Silk Way West Airlines",
+            "origin_country": "Baku",
+            "flight_status": "LANDED 11:34"
+        },
+        {
+            "flight_id": "3U9393_2024-08-24 12:58:00",
+            "flight_number": "3U9393",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 13:15:00",
+            "actual_arrival_time": "2024-08-24 12:58:00",
+            "airline_name": "Sichuan Airlines",
+            "origin_country": "Nanning",
+            "flight_status": "LANDED 12:58"
+        },
+        {
+            "flight_id": "RH371_2024-08-24 13:13:00",
+            "flight_number": "RH371",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 13:15:00",
+            "actual_arrival_time": "2024-08-24 13:13:00",
+            "airline_name": "Hong Kong Air Cargo",
+            "origin_country": "Hong Kong",
+            "flight_status": "LANDED 13:13"
+        },
+        {
+            "flight_id": "SQ7441_2024-08-24 18:29:00",
+            "flight_number": "SQ7441",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 13:25:00",
+            "actual_arrival_time": "2024-08-24 18:29:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Cincinnati",
+            "flight_status": "LANDED 18:29"
+        },
+        {
+            "flight_id": "CK287_2024-08-24 14:09:00",
+            "flight_number": "CK287",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 14:30:00",
+            "actual_arrival_time": "2024-08-24 14:09:00",
+            "airline_name": "China Cargo Airlines",
+            "origin_country": "Shanghai",
+            "flight_status": "LANDED 14:09"
+        },
+        {
+            "flight_id": "OZ393_2024-08-25 01:18:00",
+            "flight_number": "OZ393",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 14:55:00",
+            "actual_arrival_time": "2024-08-25 01:18:00",
+            "airline_name": "Asiana Airlines",
+            "origin_country": "Seoul",
+            "flight_status": "LANDED 01:18"
+        },
+        {
+            "flight_id": "SQ7951_2024-08-24 15:54:00",
+            "flight_number": "SQ7951",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 15:35:00",
+            "actual_arrival_time": "2024-08-24 15:54:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Dallas",
+            "flight_status": "LANDED 15:54"
+        },
+        {
+            "flight_id": "8K801_2024-08-24 18:46:00",
+            "flight_number": "8K801",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 19:00:00",
+            "actual_arrival_time": "2024-08-24 18:46:00",
+            "airline_name": "K-Mile Air",
+            "origin_country": "Jakarta",
+            "flight_status": "LANDED 18:46"
+        },
+        {
+            "flight_id": "SQ7403_2024-08-24 18:35:00",
+            "flight_number": "SQ7403",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-24 19:15:00",
+            "actual_arrival_time": "2024-08-24 18:35:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Los Angeles",
+            "flight_status": "LANDED 18:35"
+        },
+        {
+            "flight_id": "CI5883_2024-08-25 03:52:00",
+            "flight_number": "CI5883",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-25 04:00:00",
+            "actual_arrival_time": "2024-08-25 03:52:00",
+            "airline_name": "China Airlines",
+            "origin_country": "Taipei",
+            "flight_status": "LANDED 03:52"
+        },
+        {
+            "flight_id": "SQ7431_2024-08-25 03:56:00",
+            "flight_number": "SQ7431",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-25 04:40:00",
+            "actual_arrival_time": "2024-08-25 03:56:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Cincinnati",
+            "flight_status": "LANDED 03:56"
+        },
+        {
+            "flight_id": "SQ7365_2024-08-25 07:19:00",
+            "flight_number": "SQ7365",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-25 05:30:00",
+            "actual_arrival_time": "2024-08-25 07:19:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Brussels",
+            "flight_status": "CONFIRMED 07:19"
+        },
+        {
+            "flight_id": "CV7546_2024-08-25 06:10:00",
+            "flight_number": "CV7546",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-25 05:40:00",
+            "actual_arrival_time": "2024-08-25 06:10:00",
+            "airline_name": "Cargolux",
+            "origin_country": "Luxembourg",
+            "flight_status": "CONFIRMED 06:10"
+        },
+        {
+            "flight_id": "HJ11_2024-08-25 09:09:00",
+            "flight_number": "HJ11",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-25 09:00:00",
+            "actual_arrival_time": "2024-08-25 09:09:00",
+            "airline_name": "Tasman Cargo Airlines",
+            "origin_country": "Melbourne",
+            "flight_status": "CONFIRMED 09:09"
         }
     ],
-    "number_of_flights": 284
+    "number_of_flights": 309
 }
