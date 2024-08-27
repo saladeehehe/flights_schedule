@@ -2288,7 +2288,7 @@
             "actual_departure_time": "2024-08-27 03:15:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "3S531_2024-08-27 03:25:00",
@@ -2298,7 +2298,7 @@
             "actual_departure_time": "2024-08-27 03:25:00",
             "airline_name": "Aerologic",
             "destination": "Leipzig/Halle (LEJ)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K801_2024-08-27 03:40:00",
@@ -2308,7 +2308,7 @@
             "actual_departure_time": "2024-08-27 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-08-27 04:25:00",
@@ -2328,7 +2328,7 @@
             "actual_departure_time": "2024-08-27 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y935_2024-08-27 06:00:00",
@@ -2338,7 +2338,7 @@
             "actual_departure_time": "2024-08-27 06:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Surabaya (SUB)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K804_2024-08-27 06:00:00",
@@ -2358,7 +2358,7 @@
             "actual_departure_time": "2024-08-27 06:15:00",
             "airline_name": "Raya Airways",
             "destination": "Kuala Lumpur (KUL)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y221_2024-08-27 06:30:00",
@@ -2368,7 +2368,7 @@
             "actual_departure_time": "2024-08-27 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "CI5874_2024-08-27 08:10:00",
@@ -2378,7 +2378,7 @@
             "actual_departure_time": "2024-08-27 08:10:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "ES780_2024-08-27 07:15:00",
@@ -2388,7 +2388,7 @@
             "actual_departure_time": "2024-08-27 07:15:00",
             "airline_name": "DHL Aviation EEMEA",
             "destination": "Bahrain (BAH)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y923_2024-08-27 07:40:00",
@@ -2398,7 +2398,7 @@
             "actual_departure_time": "2024-08-27 07:40:00",
             "airline_name": "My Indo Airlines",
             "destination": "Jakarta (CGK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "5X167_2024-08-27 08:35:00",
@@ -2408,7 +2408,7 @@
             "actual_departure_time": "2024-08-27 08:35:00",
             "airline_name": "United Parcel Service",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7440_2024-08-27 09:25:00",
@@ -2418,7 +2418,7 @@
             "actual_departure_time": "2024-08-27 09:25:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Cincinnati (CVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7298_2024-08-27 09:35:00",
@@ -2428,7 +2428,7 @@
             "actual_departure_time": "2024-08-27 09:35:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Auckland (AKL)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "KE364_2024-08-27 15:20:00",
@@ -2448,7 +2448,7 @@
             "actual_departure_time": "2024-08-27 11:05:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7864_2024-08-27 12:30:00",
@@ -2458,7 +2458,7 @@
             "actual_departure_time": "2024-08-27 12:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7356_2024-08-27 13:10:00",
@@ -2468,7 +2468,7 @@
             "actual_departure_time": "2024-08-27 13:10:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Brussels (BRU)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "7L634_2024-08-27 18:00:00",
@@ -2478,7 +2478,7 @@
             "actual_departure_time": "2024-08-27 18:00:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "RH372_2024-08-27 15:45:00",
@@ -2498,7 +2498,7 @@
             "actual_departure_time": "2024-08-27 15:50:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX5601_2024-08-27 17:20:00",
@@ -2508,7 +2508,7 @@
             "actual_departure_time": "2024-08-27 17:20:00",
             "airline_name": "Federal Express",
             "destination": "Osaka (KIX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7848_2024-08-27 18:35:00",
@@ -2518,7 +2518,7 @@
             "actual_departure_time": "2024-08-27 18:35:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Shanghai (PVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "LD326_2024-08-27 21:30:00",
@@ -2528,7 +2528,7 @@
             "actual_departure_time": "2024-08-27 21:30:00",
             "airline_name": "Air Hong Kong",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX6024_2024-08-27 21:35:00",
@@ -2538,7 +2538,7 @@
             "actual_departure_time": "2024-08-27 21:35:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "5X166_2024-08-27 21:40:00",
@@ -2548,7 +2548,7 @@
             "actual_departure_time": "2024-08-27 21:40:00",
             "airline_name": "United Parcel Service",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7402_2024-08-27 21:40:00",
@@ -2568,7 +2568,7 @@
             "actual_departure_time": "2024-08-27 21:40:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7870_2024-08-26 01:45:00",
@@ -2618,7 +2618,7 @@
             "actual_departure_time": "2024-08-27 11:20:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "5X167_2024-08-28 08:35:00",
@@ -2628,7 +2628,7 @@
             "actual_departure_time": "2024-08-28 08:35:00",
             "airline_name": "United Parcel Service",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7440_2024-08-28 09:25:00",
@@ -2638,7 +2638,7 @@
             "actual_departure_time": "2024-08-28 09:25:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Cincinnati (CVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7298_2024-08-28 09:35:00",
@@ -2648,7 +2648,7 @@
             "actual_departure_time": "2024-08-28 09:35:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Auckland (AKL)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "KE364_2024-08-28 11:20:00",
@@ -2658,7 +2658,7 @@
             "actual_departure_time": "2024-08-28 11:20:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "OZ384_2024-08-28 11:05:00",
@@ -2668,7 +2668,7 @@
             "actual_departure_time": "2024-08-28 11:05:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7864_2024-08-28 12:30:00",
@@ -2678,7 +2678,7 @@
             "actual_departure_time": "2024-08-28 12:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7356_2024-08-28 13:10:00",
@@ -2688,7 +2688,7 @@
             "actual_departure_time": "2024-08-28 13:10:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Brussels (BRU)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "7L634_2024-08-28 18:00:00",
@@ -2698,7 +2698,7 @@
             "actual_departure_time": "2024-08-28 18:00:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "RH372_2024-08-28 15:45:00",
@@ -2718,7 +2718,7 @@
             "actual_departure_time": "2024-08-28 15:50:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX5601_2024-08-28 17:20:00",
@@ -2728,7 +2728,7 @@
             "actual_departure_time": "2024-08-28 17:20:00",
             "airline_name": "Federal Express",
             "destination": "Osaka (KIX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7848_2024-08-28 18:35:00",
@@ -2738,7 +2738,7 @@
             "actual_departure_time": "2024-08-28 18:35:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Shanghai (PVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "LD326_2024-08-28 21:30:00",
@@ -2748,7 +2748,7 @@
             "actual_departure_time": "2024-08-28 21:30:00",
             "airline_name": "Air Hong Kong",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX6024_2024-08-28 21:35:00",
@@ -2758,7 +2758,7 @@
             "actual_departure_time": "2024-08-28 21:35:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "5X166_2024-08-28 21:40:00",
@@ -2768,7 +2768,7 @@
             "actual_departure_time": "2024-08-28 21:40:00",
             "airline_name": "United Parcel Service",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7402_2024-08-28 21:40:00",
@@ -2788,7 +2788,7 @@
             "actual_departure_time": "2024-08-28 21:40:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "RH372_2024-08-27 17:30:00",
@@ -2798,7 +2798,7 @@
             "actual_departure_time": "2024-08-27 17:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "RH372_2024-08-28 17:30:00",
@@ -2808,8 +2808,158 @@
             "actual_departure_time": "2024-08-28 17:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "GM19_2024-08-27 04:30:00",
+            "flight_number": "GM19",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-27 04:25:00",
+            "actual_departure_time": "2024-08-27 04:30:00",
+            "airline_name": "Asia Cargo Airlines",
+            "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "2Y7701_2024-08-27 05:00:00",
+            "flight_number": "2Y7701",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-27 05:00:00",
+            "actual_departure_time": "2024-08-27 05:00:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Balikpapan (BPN)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "O3106_2024-08-28 03:15:00",
+            "flight_number": "O3106",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 03:15:00",
+            "actual_departure_time": "2024-08-28 03:15:00",
+            "airline_name": "SF Airlines",
+            "destination": "Shenzhen (SZX)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "3S531_2024-08-28 03:25:00",
+            "flight_number": "3S531",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 03:25:00",
+            "actual_departure_time": "2024-08-28 03:25:00",
+            "airline_name": "Aerologic",
+            "destination": "Leipzig/Halle (LEJ)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "8K801_2024-08-28 03:40:00",
+            "flight_number": "8K801",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 03:40:00",
+            "actual_departure_time": "2024-08-28 03:40:00",
+            "airline_name": "K-Mile Air",
+            "destination": "Bangkok (Suvarnabhumi) (BKK)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "GM19_2024-08-28 04:30:00",
+            "flight_number": "GM19",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 04:25:00",
+            "actual_departure_time": "2024-08-28 04:30:00",
+            "airline_name": "Asia Cargo Airlines",
+            "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "2Y931_2024-08-28 04:30:00",
+            "flight_number": "2Y931",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 04:30:00",
+            "actual_departure_time": "2024-08-28 04:30:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Balikpapan (BPN)",
+            "flight_status": "CANCELLED"
+        },
+        {
+            "flight_id": "2Y7701_2024-08-28 05:00:00",
+            "flight_number": "2Y7701",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 05:00:00",
+            "actual_departure_time": "2024-08-28 05:00:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Balikpapan (BPN)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "2Y935_2024-08-28 06:00:00",
+            "flight_number": "2Y935",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 06:00:00",
+            "actual_departure_time": "2024-08-28 06:00:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Surabaya (SUB)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "8K804_2024-08-28 06:00:00",
+            "flight_number": "8K804",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 06:00:00",
+            "actual_departure_time": "2024-08-28 06:00:00",
+            "airline_name": "K-Mile Air",
+            "destination": "Jakarta (CGK)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "TH383_2024-08-28 06:15:00",
+            "flight_number": "TH383",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 06:15:00",
+            "actual_departure_time": "2024-08-28 06:15:00",
+            "airline_name": "Raya Airways",
+            "destination": "Kuala Lumpur (KUL)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "2Y221_2024-08-28 06:30:00",
+            "flight_number": "2Y221",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 06:30:00",
+            "actual_departure_time": "2024-08-28 06:30:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Medan (KNO)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "CI5874_2024-08-28 08:10:00",
+            "flight_number": "CI5874",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 06:30:00",
+            "actual_departure_time": "2024-08-28 08:10:00",
+            "airline_name": "China Airlines",
+            "destination": "Taipei (TPE)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "ES780_2024-08-28 07:15:00",
+            "flight_number": "ES780",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 07:15:00",
+            "actual_departure_time": "2024-08-28 07:15:00",
+            "airline_name": "DHL Aviation EEMEA",
+            "destination": "Bahrain (BAH)",
+            "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "2Y923_2024-08-28 07:40:00",
+            "flight_number": "2Y923",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 07:40:00",
+            "actual_departure_time": "2024-08-28 07:40:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Jakarta (CGK)",
+            "flight_status": "DEPARTED"
         }
     ],
-    "number_of_flights": 281
+    "number_of_flights": 296
 }
