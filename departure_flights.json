@@ -51813,8 +51813,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Tokyo (Narita) (NRT)",
             "terminal": "T2",
-            "gate_number": "E27",
-            "flight_status": "CHECK GATE AT 19:55"
+            "gate_number": "F60",
+            "flight_status": "NEW GATE F60"
         },
         {
             "flight_id": "TR562_2024-08-28 23:10:00",
@@ -56157,9 +56157,33 @@
             "airline_name": "Singapore Airlines",
             "destination": "Tokyo (Narita) (NRT)",
             "terminal": "T2",
-            "gate_number": "F58",
-            "flight_status": "CHECK GATE AT 19:55"
+            "gate_number": "F60",
+            "flight_status": "NEW GATE F60"
+        },
+        {
+            "flight_id": "SQ468_2024-08-29 23:30:00",
+            "flight_number": "SQ468",
+            "type": "Departure",
+            "original_departure_time": "2024-08-29 22:20:00",
+            "actual_departure_time": "2024-08-29 23:30:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Colombo (CMB)",
+            "terminal": "T2",
+            "gate_number": "E27",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "SQ468_2024-08-30 23:30:00",
+            "flight_number": "SQ468",
+            "type": "Departure",
+            "original_departure_time": "2024-08-30 22:20:00",
+            "actual_departure_time": "2024-08-30 23:30:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Colombo (CMB)",
+            "terminal": "T2",
+            "gate_number": "E27",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 4680
+    "number_of_flights": 4682
 }
