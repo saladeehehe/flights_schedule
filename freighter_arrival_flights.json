@@ -5579,7 +5579,27 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7401_2024-08-29 18:04:00",
+            "flight_number": "SQ7401",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-29 19:15:00",
+            "actual_arrival_time": "2024-08-29 18:04:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Los Angeles",
+            "flight_status": "LANDED 18:04"
+        },
+        {
+            "flight_id": "SQ7401_2024-08-30 18:04:00",
+            "flight_number": "SQ7401",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 19:15:00",
+            "actual_arrival_time": "2024-08-30 18:04:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Los Angeles",
+            "flight_status": "LANDED 18:04"
         }
     ],
-    "number_of_flights": 558
+    "number_of_flights": 560
 }
