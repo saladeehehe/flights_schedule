@@ -4239,7 +4239,27 @@
             "airline_name": "Air Hong Kong",
             "destination": "Hong Kong (HKG)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX6091_2024-08-30 15:50:00",
+            "flight_number": "FX6091",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-30 15:50:00",
+            "actual_departure_time": "2024-08-30 15:50:00",
+            "airline_name": "Federal Express",
+            "destination": "Guangzhou (CAN)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX6091_2024-08-31 15:50:00",
+            "flight_number": "FX6091",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-31 15:50:00",
+            "actual_departure_time": "2024-08-31 15:50:00",
+            "airline_name": "Federal Express",
+            "destination": "Guangzhou (CAN)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 424
+    "number_of_flights": 426
 }
