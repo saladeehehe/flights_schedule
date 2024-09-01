@@ -6568,7 +6568,7 @@
             "actual_arrival_time": "2024-09-02 13:15:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "FX5601_2024-09-02 16:00:00",
@@ -6599,7 +6599,37 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7293_2024-09-02 02:23:00",
+            "flight_number": "SQ7293",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-02 02:40:00",
+            "actual_arrival_time": "2024-09-02 02:23:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Auckland",
+            "flight_status": "CONFIRMED 02:23"
+        },
+        {
+            "flight_id": "SQ7393_2024-09-02 03:08:00",
+            "flight_number": "SQ7393",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-02 03:20:00",
+            "actual_arrival_time": "2024-09-02 03:08:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "London (Heathrow)",
+            "flight_status": "CONFIRMED 03:08"
+        },
+        {
+            "flight_id": "EK9820_2024-09-02 07:35:00",
+            "flight_number": "EK9820",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-02 06:45:00",
+            "actual_arrival_time": "2024-09-02 07:35:00",
+            "airline_name": "Emirates",
+            "origin_country": "Dubai/Al Maktoum Intl",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 660
+    "number_of_flights": 663
 }
