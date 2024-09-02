@@ -5008,7 +5008,7 @@
             "actual_departure_time": "2024-09-03 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-09-03 04:30:00",
