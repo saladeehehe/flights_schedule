@@ -5808,7 +5808,7 @@
             "actual_departure_time": "2024-09-04 19:40:00",
             "airline_name": "Cargolux",
             "destination": "Anchorage (ANC)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "O3106_2024-09-05 03:15:00",
@@ -6129,7 +6129,17 @@
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "GM301_2024-09-05 13:00:00",
+            "flight_number": "GM301",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-05 13:00:00",
+            "actual_departure_time": "2024-09-05 13:00:00",
+            "airline_name": "Asia Cargo Airlines",
+            "destination": "Jakarta (CGK)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 613
+    "number_of_flights": 614
 }
