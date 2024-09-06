@@ -8768,7 +8768,7 @@
             "actual_arrival_time": "2024-09-07 04:00:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 04:00"
+            "flight_status": "LANDED 04:00"
         },
         {
             "flight_id": "2Y924_2024-09-07 06:40:00",
@@ -8909,7 +8909,47 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CI5873_2024-09-07 03:46:00",
+            "flight_number": "CI5873",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-07 04:00:00",
+            "actual_arrival_time": "2024-09-07 03:46:00",
+            "airline_name": "China Airlines",
+            "origin_country": "Taipei",
+            "flight_status": "LANDED 03:46"
+        },
+        {
+            "flight_id": "BR6085_2024-09-07 04:28:00",
+            "flight_number": "BR6085",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-07 04:10:00",
+            "actual_arrival_time": "2024-09-07 04:28:00",
+            "airline_name": "EVA Air",
+            "origin_country": "Taipei",
+            "flight_status": "CONFIRMED 04:28"
+        },
+        {
+            "flight_id": "KZ263_2024-09-07 04:16:00",
+            "flight_number": "KZ263",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-07 04:35:00",
+            "actual_arrival_time": "2024-09-07 04:16:00",
+            "airline_name": "Nippon Cargo Airlines",
+            "origin_country": "Tokyo (Narita)",
+            "flight_status": "CONFIRMED 04:16"
+        },
+        {
+            "flight_id": "2Y934_2024-09-07 10:00:00",
+            "flight_number": "2Y934",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-07 10:00:00",
+            "actual_arrival_time": "2024-09-07 10:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Surabaya",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 891
+    "number_of_flights": 895
 }
