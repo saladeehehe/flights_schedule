@@ -7609,7 +7609,17 @@
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CX78_2024-09-08 18:50:00",
+            "flight_number": "CX78",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-08 16:15:00",
+            "actual_departure_time": "2024-09-08 18:50:00",
+            "airline_name": "Cathay Pacific Airways",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 761
+    "number_of_flights": 762
 }
