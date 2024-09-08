@@ -9669,7 +9669,17 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "SQ7293_2024-09-08 17:18:00",
+            "flight_number": "SQ7293",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-08 17:05:00",
+            "actual_arrival_time": "2024-09-08 17:18:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Auckland",
+            "flight_status": "CONFIRMED 17:18"
         }
     ],
-    "number_of_flights": 967
+    "number_of_flights": 968
 }
