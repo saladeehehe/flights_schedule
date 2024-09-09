@@ -10699,7 +10699,27 @@
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
             "flight_status": "CONFIRMED 00:35"
+        },
+        {
+            "flight_id": "8K801_2024-09-10 02:30:00",
+            "flight_number": "8K801",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-10 02:40:00",
+            "actual_arrival_time": "2024-09-10 02:30:00",
+            "airline_name": "K-Mile Air",
+            "origin_country": "Jakarta",
+            "flight_status": "CONFIRMED 02:30"
+        },
+        {
+            "flight_id": "2Y220_2024-09-10 00:29:00",
+            "flight_number": "2Y220",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-10 05:30:00",
+            "actual_arrival_time": "2024-09-10 00:29:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Medan",
+            "flight_status": "LANDED 00:29"
         }
     ],
-    "number_of_flights": 1070
+    "number_of_flights": 1072
 }
