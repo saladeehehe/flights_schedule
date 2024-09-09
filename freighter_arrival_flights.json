@@ -10198,7 +10198,7 @@
             "actual_arrival_time": "2024-09-10 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "TH382_2024-09-10 01:00:00",
@@ -10448,7 +10448,7 @@
             "actual_arrival_time": "2024-09-10 19:00:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "5X166_2024-09-10 19:55:00",
@@ -10499,7 +10499,17 @@
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "SQ7371_2024-09-09 21:36:00",
+            "flight_number": "SQ7371",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-09 21:15:00",
+            "actual_arrival_time": "2024-09-09 21:36:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Amsterdam",
+            "flight_status": "CONFIRMED 21:36"
         }
     ],
-    "number_of_flights": 1050
+    "number_of_flights": 1051
 }
