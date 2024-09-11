@@ -12249,7 +12249,47 @@
             "airline_name": "Air Incheon",
             "origin_country": "Seoul",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "8K801_2024-09-12 02:42:00",
+            "flight_number": "8K801",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-12 02:40:00",
+            "actual_arrival_time": "2024-09-12 02:42:00",
+            "airline_name": "K-Mile Air",
+            "origin_country": "Jakarta",
+            "flight_status": "CONFIRMED 02:42"
+        },
+        {
+            "flight_id": "2Y2210_2024-09-12 03:12:00",
+            "flight_number": "2Y2210",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-12 03:30:00",
+            "actual_arrival_time": "2024-09-12 03:12:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Ho Chi Minh City",
+            "flight_status": "CONFIRMED 03:12"
+        },
+        {
+            "flight_id": "8K804_2024-09-12 04:12:00",
+            "flight_number": "8K804",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-12 04:20:00",
+            "actual_arrival_time": "2024-09-12 04:12:00",
+            "airline_name": "K-Mile Air",
+            "origin_country": "Bangkok (Suvarnabhumi)",
+            "flight_status": "CONFIRMED 04:12"
+        },
+        {
+            "flight_id": "2Y220_2024-09-12 00:58:00",
+            "flight_number": "2Y220",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-12 05:25:00",
+            "actual_arrival_time": "2024-09-12 00:58:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Medan",
+            "flight_status": "LANDED 00:58"
         }
     ],
-    "number_of_flights": 1225
+    "number_of_flights": 1229
 }
