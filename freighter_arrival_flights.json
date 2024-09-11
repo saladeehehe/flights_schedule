@@ -11739,7 +11739,57 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CK289_2024-09-11 14:02:00",
+            "flight_number": "CK289",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-11 14:30:00",
+            "actual_arrival_time": "2024-09-11 14:02:00",
+            "airline_name": "China Cargo Airlines",
+            "origin_country": "Shanghai",
+            "flight_status": "LANDED 14:02"
+        },
+        {
+            "flight_id": "FX5194_2024-09-11 14:31:00",
+            "flight_number": "FX5194",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-11 14:45:00",
+            "actual_arrival_time": "2024-09-11 14:31:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Guangzhou",
+            "flight_status": "CONFIRMED 14:31"
+        },
+        {
+            "flight_id": "3S632_2024-09-11 15:00:00",
+            "flight_number": "3S632",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-11 16:45:00",
+            "actual_arrival_time": "2024-09-11 15:00:00",
+            "airline_name": "Aerologic",
+            "origin_country": "Frankfurt",
+            "flight_status": "CONFIRMED 15:00"
+        },
+        {
+            "flight_id": "CI5879_2024-09-12 13:00:00",
+            "flight_number": "CI5879",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-12 04:20:00",
+            "actual_arrival_time": "2024-09-12 13:00:00",
+            "airline_name": "China Airlines",
+            "origin_country": "Taipei",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "SQ7887_2024-09-12 09:20:00",
+            "flight_number": "SQ7887",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-12 08:20:00",
+            "actual_arrival_time": "2024-09-12 09:20:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Shanghai",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 1174
+    "number_of_flights": 1179
 }
